@@ -13,6 +13,9 @@
     "biography"
   ],
   "supports": {
+    "interactivity": {
+      "clientNavigation": true
+    },
     "html": false,
     "color": {
       "link": true,

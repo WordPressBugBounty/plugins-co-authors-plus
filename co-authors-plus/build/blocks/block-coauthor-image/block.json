@@ -10,6 +10,9 @@
     "coauthors"
   ],
   "supports": {
+    "interactivity": {
+      "clientNavigation": true
+    },
     "__experimentalBorder": {
       "color": true,
       "radius": true,
